@@ -9,12 +9,12 @@
 ## Description
 This is a web application designed to  output the github username upon search , it displays personal information
 ## Live Page 
-https://github.com/Felistus-Chemutai/git.git
+https://github.com/Felistus-Chemutai/github-search-tool.git
 ## Installation / Setup instruction
 * Open Terminal {PNPM CREATE VITE@LATEST, PROJECT NAME(BAR),SELECT REACT, JAVASCRIPT, CD BAR, PNPM INSTALL, PNPM RUN DEV}
-* git clone ``` [https://github.com/Felistus-Chemutai/git.git]
+* git clone ``` [https://github.com/Felistus-Chemutai/github-search-tool.git]
 * cd git
-* https://github.com/Felistus-Chemutai/git.git
+* https://github.com/Felistus-Chemutai/github-search-tool.git
 * code . or atom . depending on the text editor you are using.
 ## Technologies Used
 * [HTML5,JS,REACT]
